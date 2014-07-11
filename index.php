@@ -1,5 +1,7 @@
 <?php
 
-echo "Índice";
+echo "indice";
+
+echo "indice 2";
 
 ?>
